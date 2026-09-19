@@ -66,6 +66,7 @@ Real-World IT Skills
 
 Our training is focused on technologies used every day in enterprise environments:
 
+
 Active Directory
 DNS
 DHCP
@@ -79,7 +80,9 @@ Cloud & DevOps Fundamentals
 Every lesson is delivered in the context of how technology is used on the job, not just how it works in theory.
 
 
+
 The AI Mentor
+
 Every learner is paired with an AI mentor designed to emulate the guidance of an experienced senior engineer.
 
 
@@ -95,8 +98,10 @@ Reinforces best practices
 Adapts to individual learning styles
 Think of it as having an experienced engineer looking over your shoulder while you learn.
 
-From Help Desk to Administrator
-401Ops was built for:
+
+From Help Desk to Administrator\
+
+401 Ops was built for:
 
 Help Desk Technicians
 Tier 1 Support Analysts
@@ -108,23 +113,31 @@ Future Linux Administrators
 Future DevOps Engineers
 Whether you're entering IT or advancing your career, our learning paths help you move from foundational support roles to infrastructure and operations positions.
 
+
 Our Vision
 We envision a world where anyone with curiosity, determination, and a willingness to learn can build a successful IT career.
 
+
 Without a four-year degree.
+
 
 Without expensive bootcamps.
 
+
 Without needing existing industry connections.
+
 
 We're building the apprenticeship program we wish existed when we started.
 
+
 Privacy By Design
+
+
 We teach privacy.
 
 We should practice it.
 
-401Ops follows a simple principle:
+401 Ops follows a simple principle:
 
 If we don't need your data, we don't want your data.
 
@@ -139,11 +152,10 @@ Nothing more.
 
 Privacy is not an afterthought. It's part of the platform's foundation.
 
-Learn more in our https://401ops.com/privacy.
+
 
 Join the Mission
 We're building a new way to learn IT.
-
 A place where people gain confidence through practice, experience through repetition, and skills through real work.
 
 Learn. Build. Troubleshoot. Grow.
