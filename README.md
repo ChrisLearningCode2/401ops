@@ -15,7 +15,10 @@ Real IT jobs require something different.
 
 They require people who can investigate issues, troubleshoot systems under pressure, think critically, and make decisions when things break.
 
+
 401Ops was built to close that gap.
+
+
 
 Our Mission
 To help aspiring IT professionals build real-world experience through hands-on practice, guided projects, and realistic scenarios.
@@ -46,13 +49,21 @@ Instead of memorizing Active Directory commands, you'll onboard employees and ma
 Instead of watching another Linux tutorial, you'll connect to a server and resolve real operational issues.
 
 Platform Features
+
 🛠️ Realistic Incident Simulations
+
 💻 Browser-Based Terminals
+
 📚 Guided Hands-On Projects
+
 🔒 Safe Learning Environment
+
 🤖 AI-Powered Mentorship
+
 🎯 Career-Focused Learning Paths
+
 Real-World IT Skills
+
 Our training is focused on technologies used every day in enterprise environments:
 
 Active Directory
@@ -67,10 +78,13 @@ System Administration
 Cloud & DevOps Fundamentals
 Every lesson is delivered in the context of how technology is used on the job, not just how it works in theory.
 
+
 The AI Mentor
 Every learner is paired with an AI mentor designed to emulate the guidance of an experienced senior engineer.
 
+
 The mentor doesn't simply provide answers.
+
 
 It:
 
