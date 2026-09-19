@@ -42,4 +42,4 @@ We teach privacy. We should practice it.
 
 401 Academy believes learning shouldn't require surrendering unnecessary personal information. We collect only the information we reasonably need to operate the platform, provide your learning experience, protect your account, process payments, and meet applicable obligations. We don't collect information simply because we can. If we don't need it, we'd rather not have it.
 
-Learn About Our Privacy Approach
+401ops.com
